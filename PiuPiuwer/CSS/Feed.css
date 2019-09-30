@@ -1,0 +1,110 @@
+body {font-family: Arial, Helvetica, sans-serif;
+	background-color: black;
+	text-decoration-color: white;}
+
+		
+		#header {background-color: gold;
+        	padding: 10px;
+			text-align: center;}
+
+		.foto {height: 50px;
+			width: 50px;
+			border-radius: 44px;
+			float: left;
+			margin-left: 5px;}
+		
+		.container {text-align: center;}
+
+		.post {border: gold solid 5px;
+			width: 717px;
+			display: inline-block;
+			padding: 5px;
+			border-radius: 44px;
+			margin-top: 10px;}
+		
+		.usuario{color: white;
+			float: left;
+			margin-left: 5px;
+			margin-top: 3px;}
+
+		.username{color: grey;
+			float: left;
+			margin-left: 5px;
+			margin-top: 3px;}
+
+		.pub {clear: left;
+			color: white;
+			margin-bottom:3px;}
+		
+		#perfil {float: left;
+			border-radius: 44px;
+			padding: 5px;
+			width: 230px;}
+		
+		#titulo {font-size: 60px;
+			text-align: center;
+			display: inline-block}
+
+		#barra {background-color: black;
+			color: white;
+			float: right;
+			border: none;
+			border-radius: 44px;
+			height: 150%;
+			margin-top: 20px;
+			margin-right: 30px;
+			width: 200px;}
+
+		#logo {display: inline-block;
+			height: 60px;}
+		
+		.piu {background-color: white;
+			color: black;
+			border: 5px solid gold;
+			border-radius: 20px;
+			display: inline-block;}
+
+		#contador {color: white;
+			display: inline;}
+
+		#envio {background-color: gold;
+			color: black;
+			border: none;}
+
+		#validar {display: inline-block;}
+
+		.errocampo {border: 5px red solid;}
+
+		.errocont {color: red;}
+
+		#msgerro {display: none;
+			color: red;}
+
+		#msgvazio {display: none;
+			color: red;}
+
+		.container2 {text-align: center;}
+
+		.like{color:white;
+			display: inline-block;
+			margin: 5px;
+			height: 20px;}
+
+		.dislike{color:white;
+			display: inline-block;
+			margin: 5px;
+			height: 20px;}
+
+		.des{color:white;
+			display: inline-block;
+			margin: 5px;
+			height: 20px;}
+
+		.del{color:white;
+			display: inline-block;
+			margin: 5px;
+			height: 20px;}
+
+		.contlike{color:white;
+			display: inline;
+			margin: 5px;}
